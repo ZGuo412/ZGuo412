@@ -1,4 +1,4 @@
-### Hi there, I'm Ziyu Guo who study at the University of Tokyo as a master student. 👋
+### Hello World, I'm Ziyu Guo who study at the University of Tokyo as a master student. 👋
 
 - 🌱 I’m currently learning everything new and challenge to me! 🤣
 - 🔭 Goal in 2021: self-learning all the materials in the book "Deep learning with Pytorch"; Top 5% in Kaggle Competition
