@@ -1,7 +1,7 @@
 ### Hello World, I'm Ziyu Guo who study at the University of Tokyo as a master student. 👋
 
 - 🌱 I’m currently learning everything new and challenge to me! 🤣
-- 🔭 Goal in 2021: self-learning all the materials in the book "Deep learning with Pytorch"; Top 2% in Kaggle Competition
+- 🔭 Goal in 2022: Top 2% in Kaggle Competition!; Graduate!; Get good Job!
 
 
 
